@@ -1,0 +1,10 @@
+div {
+    height: 350px;
+    width: 350px;
+    background-color: pink;
+}
+
+div p:nth-of-type(2n) {
+    background-color: black;
+    color: wheat;
+}

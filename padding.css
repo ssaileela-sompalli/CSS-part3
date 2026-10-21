@@ -1,0 +1,26 @@
+div
+{
+    height:250px;
+    width:250px;
+    background-color: blueviolet;
+    border:10px solid black;
+    padding:20px;
+    margin:20px;
+}
+.a
+{
+    height:250px;
+    width:250px;
+    background-color: yellow;
+    border:10px solid pink;
+    margin:20px;
+}
+.b
+{
+    height:250px;
+    width:250px;
+    background-color: cornflowerblue;
+    border:10px solid black;
+    margin:40px;
+
+}

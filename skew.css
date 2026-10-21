@@ -1,0 +1,40 @@
+.a
+{
+    height:100px;
+    width:100px;
+    background-color: red;
+    margin:10px;
+    transform: skew(9deg);
+}
+.b
+{
+    height:100px;
+    width:100px;
+    background-color: wheat;
+    margin:10px;
+    transform: skewX(50deg);
+}
+.c
+{
+    height:100px;
+    width:100px;
+    background-color: yellow;
+    margin:10px;
+    transform:skewY(60deg);
+}
+.d
+{
+    height:100px;
+    width:100px;
+    background-color: black;
+    margin:10px;
+    transform:skew(54deg,20deg  );
+}
+.e
+{
+    height:100px;
+    width:100px;
+    background-color:chocolate;
+    margin:10px;
+    transform:skew(-20deg,-40deg);
+}

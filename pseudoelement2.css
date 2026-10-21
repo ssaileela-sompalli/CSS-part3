@@ -1,0 +1,11 @@
+div{
+    height:200px;
+    width:350px;
+    background-color: wheat;
+}
+p::first-line
+{
+    background-color: blue;
+    color:black;
+
+}

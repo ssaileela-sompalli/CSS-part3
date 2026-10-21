@@ -1,0 +1,39 @@
+.a
+{
+    background-color:#ffa511;
+    border-radius: 50%;
+    height:500px;
+    width:500px;
+}
+.b
+{
+    background-color: black;
+    border-radius:50%;
+    height:100px;
+    width:100px;
+    position:relative;
+    bottom:350px;
+    left:80px;
+
+}
+.c
+{
+    background-color: black;
+    border-radius:50%;
+    height:100px;
+    width:100px;
+    position:relative;
+    bottom:450px;
+    left:300px;
+
+}
+.d
+{
+    background-color:crimson;
+    width:250px;
+    height:100px;
+    bottom:400px;
+    left:120px;
+    border-radius:0 0 20px 20px;
+    position:relative;
+}

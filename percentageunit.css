@@ -1,0 +1,15 @@
+.a
+{
+    height:1000px;
+    width:1000px;
+    background-color: pink;
+    margin:10px;
+}
+.b
+{
+    height:50%;
+    width:20%;
+    margin:5%;
+    padding:20%;
+    background-color: black;
+}

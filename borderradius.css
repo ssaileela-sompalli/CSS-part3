@@ -1,0 +1,16 @@
+.a
+{
+    height:200px;
+    width:150px;
+    margin:20px;
+    background-color: brown;
+    border-radius: 50px;
+}
+.b
+{
+    height:200px;
+    width:200px;
+    margin:20px;
+    background-color:wheat;
+    border-radius: 50%;
+}

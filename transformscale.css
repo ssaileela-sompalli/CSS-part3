@@ -1,0 +1,31 @@
+.a{
+    height:100px;
+    width:200px;
+    background-color:red;
+    transform:scale(0.2);
+    margin:10px;
+}
+.b
+{
+    height:200px;
+    width:200px;
+    background-color: blue;
+    transform:scaleX(2);
+    margin:10px;
+}
+.c
+{
+    height:400px;
+    width:200px;
+    background-color: pink;
+    transform:scaleY(2);
+    margin:10px;
+}
+.d
+{
+    height:100px;
+    width:100px;
+    background-color:black;
+    transform:scale(2,2);
+    margin:10px;
+}

@@ -1,0 +1,17 @@
+.a
+{
+    font-size:100px;
+    width:150px;
+    height:200px;
+    background-color:blue;
+    margin:10px;
+}
+.b
+{
+    font-size:1em;
+    height:2em;
+    width:2em;
+    background-color: coral;
+    margin:2em;
+    padding:1em;
+}

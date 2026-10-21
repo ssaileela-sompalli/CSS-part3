@@ -1,0 +1,26 @@
+.a{
+    height:400px;
+    width:400px;
+    background-color: skyblue;
+    background-image:url(image.jpg);
+    background-size:cover;
+    margin:20px;
+}
+.b
+{
+    height:200px;
+    width:250px;
+    background-color: skyblue;
+    background-image: url(image.jpg);
+    background-size: auto;
+    margin:20px;
+}
+.c
+{
+    height:150px;
+    width:200px;
+    background-color: skyblue;
+    background-image:url(image.jpg);
+    background-size:contain;
+    margin:20px;    
+}

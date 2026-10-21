@@ -1,0 +1,16 @@
+.a
+{
+    width:100px;
+    height:100px;
+    background-color:wheat;
+    margin:10px;
+    display:inline; 
+}
+.b
+{
+    width:100px;
+    height:100px;
+    background-color: blueviolet;
+    margin:10px;
+    display:inline;
+}
